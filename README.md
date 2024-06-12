@@ -1,4 +1,4 @@
-# Grad-CAM
+# Grad-CAM for Streamlit
 ## Setup environment
   ```
   pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
