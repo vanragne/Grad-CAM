@@ -4,3 +4,5 @@ pandas
 seaborn
 streamlit
 tensorflow
+opencv-python-headless
+scikit-learn
