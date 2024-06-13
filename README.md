@@ -6,5 +6,5 @@
   
 ## Run Streamlit App
   ```
-  streamlit run gradcam.py
+  streamlit run grad_cam.py
   ```
